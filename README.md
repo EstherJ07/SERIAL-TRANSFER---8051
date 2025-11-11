@@ -59,6 +59,12 @@ while(1);
 <br>
 <br>
 <br>
+<img width="1919" height="1139" alt="Screenshot 2025-11-11 081944" src="https://github.com/user-attachments/assets/6cbaa934-537a-4b95-ae35-39f50f4df901" />
+
+
+<img width="1919" height="1139" alt="Screenshot 2025-11-11 082711" src="https://github.com/user-attachments/assets/815cf099-3e8f-4732-ad4f-a5df7ae6da6b" />
+
+
 <br>
 <br>
 
